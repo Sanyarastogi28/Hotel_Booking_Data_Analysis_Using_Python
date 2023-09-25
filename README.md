@@ -2,4 +2,4 @@
 
 The primary goal of this project is to analyze the hotel booking cancellations as well as other factors that have no bearing on their business and yearly revenue generation to increase their efficiency in generating revenue, and for us to offer thorough business advice to address this problem.
     You can download the dataset from here:
-           -> # [Hotel Booking Dataset](https://www.kaggle.com/datasets/mojtaba142/hotel-booking?select=hotel_booking.csv)
+           ->  [Hotel Booking Dataset](https://www.kaggle.com/datasets/mojtaba142/hotel-booking?select=hotel_booking.csv)
