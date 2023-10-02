@@ -7,4 +7,4 @@ You can download the dataset from here:
             [Hotel Booking Dataset](https://www.kaggle.com/datasets/mojtaba142/hotel-booking?select=hotel_booking.csv)
 
 Download the complete report from here:
-             [Report of Hotel Booking] (https://docs.google.com/document/d/1xLeQ5eCE74ZPyDs4j8G-ASx9QPbYV5TL/edit)
+             [Report of Hotel Booking](https://docs.google.com/document/d/1xLeQ5eCE74ZPyDs4j8G-ASx9QPbYV5TL/edit)
